@@ -1,0 +1,68 @@
+{
+  "floors": {
+    "Electrode": {
+      "background": "floor1.svg",
+      "items": [
+        { "id": "CMX01", "x": 250, "y": 360, "label": "Cathode Mixing 01" },
+        { "id": "CMX02", "x": 250, "y": 470, "label": "Cathode Mixing 02" },
+        { "id": "CMX03", "x": 250, "y": 580, "label": "Cathode Mixing 03" },
+        { "id": "AMX01", "x": 250, "y": 1370, "label": "Anode Mixing 01" },
+        { "id": "AMX02", "x": 250, "y": 1480, "label": "Anode Mixing 02" },
+        { "id": "AMX03", "x": 250, "y": 1590, "label": "Anode Mixing 03" },
+        { "id": "AMX04", "x": 250, "y": 1700, "label": "Anode Mixing 04" },
+        { "id": "CCT01", "x": 600, "y": 150, "label": "Cathode Coating 01" },
+        { "id": "CCTB01", "x": 600, "y": 520, "label": "Cathode Coating 02" },
+        { "id": "ACT01", "x": 600, "y": 1250, "label": "Anode Coating 01" },
+        { "id": "ACTB01", "x": 600, "y": 750, "label": "Anode Coating 02" },
+        { "id": "CCL01", "x": 3450, "y": 400, "label": "Cathode Calendering 01" },
+        { "id": "ACL01", "x": 3450, "y": 700, "label": "Anode Calendering 01" },
+        { "id": "CLS01", "x": 4150, "y": 360, "label": "Cathode Laser Slitting 01" },
+        { "id": "CLS02", "x": 4150, "y": 470, "label": "Cathode Laser Slitting 02" },
+        { "id": "CLS03", "x": 4150, "y": 580, "label": "Cathode Laser Slitting 03" },
+        { "id": "ASL01", "x": 4150, "y": 720, "label": "Anode Laser Slitting 01" },
+        { "id": "ASL02", "x": 4150, "y": 830, "label": "Anode Laser Slitting 02" },
+        { "id": "ASL03", "x": 4150, "y": 940, "label": "Anode Laser Slitting 03" }
+      ]
+    },
+    "Assembly": {
+      "background": "floor2.svg",
+      "items": [
+        { "id": "CWD01", "x": 4000, "y": 1605, "label": "Winding 01" },
+        { "id": "CWD02", "x": 4000, "y": 1480, "label": "Winding 02" },
+        { "id": "CWD03", "x": 4000, "y": 1320, "label": "Winding 03" },
+        { "id": "CWD04", "x": 4000, "y": 1195, "label": "Winding 04" },
+        { "id": "CWD05", "x": 4000, "y": 1035, "label": "Winding 05" },
+        { "id": "CWD06", "x": 4000, "y": 910, "label": "Winding 06" },
+        { "id": "CWD07", "x": 4000, "y": 750, "label": "Winding 07" },
+        { "id": "CWD08", "x": 4000, "y": 625, "label": "Winding 08" },
+        { "id": "CWD09", "x": 4000, "y": 465, "label": "Winding 09" },
+        { "id": "CWD10", "x": 4000, "y": 340, "label": "Winding 10" },
+        { "id": "CWD11", "x": 4370, "y": 340, "label": "Winding 11" },
+        { "id": "CWD12", "x": 4500, "y": 340, "label": "Winding 12" },
+        { "id": "CWD13", "x": 4370, "y": 20, "label": "Winding 13" },
+        { "id": "CWD14", "x": 4500, "y": 20, "label": "Winding 14" },
+        { "id": "CRB11", "x": 3650, "y": 1550, "label": "Rubbing 11" },
+        { "id": "CAW11", "x": 3480, "y": 1550, "label": "Anode Collector Welding 11" },
+        { "id": "CCW11", "x": 3310, "y": 1550, "label": "Cathode Collector Welding 11" },
+        { "id": "CJL11", "x": 3140, "y": 1035, "label": "Jelly roll supply loader 11" },
+        { "id": "CCI11", "x": 2960, "y": 1035, "label": "Jelly roll inserting 11" },
+        { "id": "CBW11", "x": 2780, "y": 1035, "label": "Bottom welding 11" },
+        { "id": "CSG11", "x": 2600, "y": 1035, "label": "Swaging 11" },
+        { "id": "CTI11", "x": 2420, "y": 1035, "label": "Insulation Inserting 11" },
+        { "id": "CBD11", "x": 2240, "y": 1035, "label": "Beading 11" },
+        { "id": "CBC11", "x": 2060, "y": 1035, "label": "Beading check 11" },
+        { "id": "CXI11", "x": 1880, "y": 1035, "label": "Xray inspection 11" },
+        { "id": "CEJ11", "x": 1700, "y": 1035, "label": "Electrolyte injection 11" },
+        { "id": "CHW11", "x": 1520, "y": 1035, "label": "Header welding 11" },
+        { "id": "CCR11", "x": 1360, "y": 1035, "label": "Crimping (Sealing)11" },
+        { "id": "CWS11", "x": 1180, "y": 1035, "label": "Washing 11" },
+        { "id": "COC11", "x": 1000, "y": 1035, "label": "Anti-rust oil coating 11" },
+        { "id": "CA111", "x": 820, "y": 1035, "label": "Appearance inspection 1 11" },
+        { "id": "CTB11", "x": 640, "y": 1035, "label": "Tubing 11" },
+        { "id": "CA211", "x": 460, "y": 1035, "label": "Appearance inspection 2 11" },
+        { "id": "CBP11", "x": 280, "y": 1035, "label": "Barcode Printing 11" },
+        { "id": "CCU11", "x": 100, "y": 1035, "label": "Cell Collection Unloader 11" }
+      ]
+    }
+  }
+}
