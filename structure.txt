@@ -1,0 +1,10 @@
+[ UI Layer ]   (PySide6, Qt Widgets, Tabs, ViewModels)
+    |
+    ▼
+[ Application Layer ]   (Services trong data/, LoadController, Use Cases)
+    |
+    ▼
+[ Domain Layer ]   (Entities, Domain Services, Business Rules)
+    |
+    ▼
+[ Infrastructure Layer ]   (Repository, Database, Cache, Exporters, Plugins)

@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equipment-visualizer"
+version = "0.1.0"
+description = "Equipment realtime visualization"
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+
+authors = [
+  { name = "IE", email = "your.email@example.com" }
+]
+
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3.11",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+dependencies = [
+  "PySide6>=6.6",
+  "SQLAlchemy>=2.0",
+  "pyodbc>=4.0.39"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/equipment-visualizer"
+Repository = "https://github.com/yourname/equipment-visualizer.git"
